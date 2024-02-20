@@ -9,7 +9,7 @@ kullanımı insanların doğru meslek seçimine
 yönelmesinde büyük bir etkiye sahip olabilir.
 Yapay zeka tabanlı rehberlik uygulaması,
 insanların kişisel özelliklerini, ilgi alanlarını ve
-yeteneklerini analiz ederek yüzde 95 doğruluk
+yeteneklerini analiz ederek yüksek bir doğruluk
 oranıyla doğru meslek seçimine
 yönlendirebiliyor. Bu sayede insanlar
 hayatları boyunca severek yaptıkları, mutlu
